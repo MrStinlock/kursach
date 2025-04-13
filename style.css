@@ -1,0 +1,207 @@
+body {
+	background: #FFFFFF;
+	font-family: Arial;
+	letter-spacing: 3px;
+}
+
+h1 {opacity: 100%}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.textbase {
+	font-size: 26px;
+	font-weight: 300;
+	font-stretch: 10px;
+}
+
+.bg-my-custom-color {
+	background-color: #0D467C !important;
+	color: white;
+}
+
+.text-my-custom-color {
+	color: white;
+}
+
+.my-space-button {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.my-space-brand {
+	width: 200px;
+}
+
+.testf {
+	width: 1440px;
+}
+
+.main-block-center {
+	width: 1152px;
+	height: 498px;
+	display: flex;
+	margin: auto;
+	margin-top: 80px;
+	border: 2px solid black;
+	border-radius: 30px;
+	position: relative;
+}
+
+.img-mount {
+	opacity: 0.25;
+	position: absolute;
+}
+
+.text-mount {
+	text-align: center;
+	position: relative;
+	margin-top: 140px;
+}
+
+.button-action-in-ad {
+	width: 400px;
+	height: 60px;
+	background: #0D467C;
+	border-radius: 20px;
+	top: 340px;
+	left: 376px;
+	position: absolute;
+	z-index: 2;
+}
+
+.bt-txt-action-in-ad {
+	color: white;
+	text-align: center;
+	margin-top: 10px;
+	font-weight: 200;
+	font-size: 32px;
+}
+
+.img-carousel-base {
+	position: relative;
+	height: 494px;
+	width: 1148px;
+	border-radius: 30px;
+	opacity: 20%;
+}
+
+.txt-main-block-center {
+	opacity: 100%;
+	color: black;
+	font-size: 32px;
+	position: absolute;
+	z-index: 2;
+	top: 200px;
+	left: 351px;
+	font-weight: 700;
+	text-shadow: 
+	-1px -1px 0 white,
+	1px -1px 0 white,
+	-1px  1px 0 white,
+	1px  1px 0 white;
+}
+
+.block-courses {
+	width: 1152px;
+	display: block;
+	margin: auto;
+	margin-top: 80px;
+	position: relative;
+	height: 240px;
+}
+
+.txt-course {
+	color: black;
+	text-align: center;
+	background: white;
+	font-family: Arial;
+}
+
+.btn-course-small {
+	height: 60px;
+	width: 357px;
+	border: 2px solid black;
+	border-radius: 15px;
+	position: absolute;
+}
+
+.btn-course-large {
+	height: 60px;
+	width: 556px;
+	border: 2px solid black;
+	border-radius: 15px;
+	position: absolute;
+}
+
+.btn-c-r {
+	left: 594px;
+}
+
+.btn-c-c {
+	top: 90px;
+}
+
+.btn-c-d {
+	top: 180px;
+}
+
+.btn-r {
+	left: 793px;
+}
+
+.btn-c { 
+	left: 398px;
+}
+
+.btn-large-left {
+	background: #226CB1;
+	color: white;
+}
+
+.btn-large-right {
+	background: #15878F;
+	color: white;
+}
+
+.nametag-block-info {
+	background: white;
+	border: 2px solid black;
+	border-radius: 15px;
+	width: 300px;
+	height: 80px;
+	position: absolute;
+	left: 426px;
+	top: 40px;
+}
+
+.btn-infoblock-base {
+	width: 270px;
+	height: 80px;
+	background: white;
+	border: 2px solid black;
+	border-radius: 15px;
+	position: absolute;
+}
+
+.btn-inf-tl {
+	left: 107px;
+	top: 160px;
+}
+
+.btn-inf-tr {
+	left: 773px;
+	top: 160px;
+}
+
+.btn-inf-bl {
+	left: 107px;
+	top: 280px;
+}
+
+.btn-inf-br {
+	left: 773px;
+	top: 280px;
+}
